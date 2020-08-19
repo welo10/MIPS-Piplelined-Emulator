@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Archi_Ver1.Properties
+namespace MIPS_Emulator.Properties
 {
 
 

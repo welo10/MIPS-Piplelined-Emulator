@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Archi_Ver1
+namespace MIPS_Emulator
 {
     class MIPS
     {

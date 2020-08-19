@@ -1,0 +1,12 @@
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\bin\Debug\Archi_Ver1.exe.config
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\bin\Debug\Archi_Ver1.exe
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\bin\Debug\Archi_Ver1.pdb
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\obj\Debug\MIPS Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\obj\Debug\MIPS_Emulator.Form1.resources
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.Properties.Resources.resources
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\obj\Debug\MIPS Emulator.csproj.GenerateResource.Cache
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.exe
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.pdb
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\MIPS Emulator\Archi_Ver1\bin\Debug\Archi_Ver1.exe.config
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\MIPS Emulator\Archi_Ver1\obj\Debug\Archi_Ver1.exe
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\MIPS Emulator\Archi_Ver1\obj\Debug\Archi_Ver1.pdb

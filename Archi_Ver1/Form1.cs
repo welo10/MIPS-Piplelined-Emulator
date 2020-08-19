@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Archi_Ver1
+namespace MIPS_Emulator
 {
     public partial class Form1 : Form
     {

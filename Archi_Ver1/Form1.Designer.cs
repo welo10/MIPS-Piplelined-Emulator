@@ -1,4 +1,4 @@
-﻿namespace Archi_Ver1
+﻿namespace MIPS_Emulator
 {
     partial class Form1
     {
