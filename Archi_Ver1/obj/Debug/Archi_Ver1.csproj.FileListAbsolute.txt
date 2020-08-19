@@ -1,0 +1,18 @@
+c:\users\waleed ehab badr\documents\visual studio 2015\Projects\Archi_Ver1\Archi_Ver1\bin\Debug\Archi_Ver1.exe.config
+c:\users\waleed ehab badr\documents\visual studio 2015\Projects\Archi_Ver1\Archi_Ver1\bin\Debug\Archi_Ver1.exe
+c:\users\waleed ehab badr\documents\visual studio 2015\Projects\Archi_Ver1\Archi_Ver1\bin\Debug\Archi_Ver1.pdb
+c:\users\waleed ehab badr\documents\visual studio 2015\Projects\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.csprojResolveAssemblyReference.cache
+c:\users\waleed ehab badr\documents\visual studio 2015\Projects\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.Form1.resources
+c:\users\waleed ehab badr\documents\visual studio 2015\Projects\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.Properties.Resources.resources
+c:\users\waleed ehab badr\documents\visual studio 2015\Projects\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.csproj.GenerateResource.Cache
+c:\users\waleed ehab badr\documents\visual studio 2015\Projects\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.exe
+c:\users\waleed ehab badr\documents\visual studio 2015\Projects\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.pdb
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\bin\Debug\Archi_Ver1.exe.config
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.exe
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.pdb
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\bin\Debug\Archi_Ver1.exe
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\bin\Debug\Archi_Ver1.pdb
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.csprojResolveAssemblyReference.cache
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.Form1.resources
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.Properties.Resources.resources
+C:\Users\Waleed Ehab Badr\Downloads\projects\archi\V1_Task2_Code\Archi_Ver1\Archi_Ver1\obj\Debug\Archi_Ver1.csproj.GenerateResource.Cache
